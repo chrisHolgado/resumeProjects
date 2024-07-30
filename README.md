@@ -1,1 +1,2 @@
-This Main Branch is dedicated for all the programming projects I had made at NJIT
+This is my capstone project in which I had taught younget students about Python and Cybersecurity.
+This is an "All in One Software" That Checks if a password is suffice and generates a random password.
