@@ -1,1 +1,1 @@
-This Main Branch is dedicated for all the programming projects I had made at NJIT
+This is a simple calculator Python Program in which you can choose to either Add, Multiple, Subtract, or Divide using functions
